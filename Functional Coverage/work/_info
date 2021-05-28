@@ -1,0 +1,41 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/SystemVerilog Interfaces
+T_opt
+!s110 1607056207
+VCgBhL;CGT_fd1X4hK8e9M1
+04 4 4 work test fast 0
+=1-c8f75052a24a-5fc9bb4f-18e-1d9c
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.4e;61
+vtest
+DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+!s110 1607056199
+!i10b 1
+!s100 VZaZPMZ3iE>n5`>eoVi_F2
+IJD7`09jiZ^VOLQii]3NhM1
+VDg1SIo80bB@j0V0VzS_@n1
+!s105 test_sv_unit
+S1
+dC:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/Functional Coverage
+w1607056194
+8C:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/Functional Coverage/test.sv
+FC:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/Functional Coverage/test.sv
+L0 3
+OL;L;10.4e;61
+r1
+!s85 0
+31
+!s108 1607056198.000000
+!s107 C:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/Functional Coverage/test.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/Functional Coverage/test.sv|
+!i113 0
+o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact

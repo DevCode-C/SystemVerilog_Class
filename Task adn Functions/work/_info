@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/Processes
+T_opt
+!s110 1607054028
+V2UjnMkUKGm31G1^3JURF01
+04 10 4 work task_intro fast 0
+=1-c8f75052a24a-5fc9b2cc-8b-392c
+Z1 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OL;O;10.4e;61
+R0
+T_opt1
+!s110 1607054232
+Vd=L[:d39DHERH@26KaLC51
+04 22 4 work function_optional_list fast 0
+=1-c8f75052a24a-5fc9b398-fd-3c10
+R1
+n@_opt1
+R2
+vfunction_optional_list
+Z3 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+!s110 1607054222
+!i10b 1
+!s100 mefbn@CB842ZoVkm9P4k_0
+IDUPaB[GNGo=YYj@=AW>Zk3
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+!s105 function_opcional_list_sv_unit
+S1
+Z5 dC:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/Task adn Functions
+w1607054219
+8C:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/Task adn Functions/function_opcional_list.sv
+FC:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/Task adn Functions/function_opcional_list.sv
+L0 3
+Z6 OL;L;10.4e;61
+r1
+!s85 0
+31
+!s108 1607054222.000000
+!s107 C:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/Task adn Functions/function_opcional_list.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/Task adn Functions/function_opcional_list.sv|
+!i113 0
+Z7 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vtask_intro
+R3
+!s110 1607054020
+!i10b 1
+!s100 O@l4VRlNmQWOXhHkW[U021
+Id5IBPTZV1jOHH52=[CGN32
+R4
+!s105 task_intro_sv_unit
+S1
+R5
+w1607054016
+8C:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/Task adn Functions/task_intro.sv
+FC:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/Task adn Functions/task_intro.sv
+L0 2
+R6
+r1
+!s85 0
+31
+!s108 1607054020.000000
+!s107 C:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/Task adn Functions/task_intro.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/Task adn Functions/task_intro.sv|
+!i113 0
+R7

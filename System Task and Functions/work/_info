@@ -1,0 +1,41 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/Functional Coverage
+T_opt
+!s110 1607056331
+VW<^i:;:I7WP5X7cRb@E@:3
+04 15 4 work system_variable fast 0
+=1-c8f75052a24a-5fc9bbcb-33d-3f8c
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.4e;61
+vsystem_variable
+DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+!s110 1607056325
+!i10b 1
+!s100 7R55Kfe59TW00IPbBF_S33
+I[l<kZYZT?TD=6[kHF[Y`21
+VDg1SIo80bB@j0V0VzS_@n1
+!s105 system_variable_sv_unit
+S1
+dC:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/System Task and Functions
+w1607056322
+8C:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/System Task and Functions/system_variable.sv
+FC:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/System Task and Functions/system_variable.sv
+L0 3
+OL;L;10.4e;61
+r1
+!s85 0
+31
+!s108 1607056325.000000
+!s107 C:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/System Task and Functions/system_variable.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/System Task and Functions/system_variable.sv|
+!i113 0
+o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact

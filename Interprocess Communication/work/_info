@@ -1,0 +1,41 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/Random Constraints
+T_opt
+!s110 1607054965
+VeY@YMW49o6S?D4?^35R]11
+04 7 4 work event_t fast 0
+=1-c8f75052a24a-5fc9b675-187-36bc
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.4e;61
+4event_t
+DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+!s110 1607054956
+!i10b 1
+!s100 i3:gVXUm6[bW9RcS5JWG23
+ID=@`9dz<@_afj8f_UcNA^0
+VDg1SIo80bB@j0V0VzS_@n1
+!s105 event_t_sv_unit
+S1
+dC:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/Interprocess Communication
+w1607054952
+8C:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/Interprocess Communication/event_t.sv
+FC:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/Interprocess Communication/event_t.sv
+L0 2
+OL;L;10.4e;61
+r1
+!s85 0
+31
+!s108 1607054956.000000
+!s107 C:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/Interprocess Communication/event_t.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/Interprocess Communication/event_t.sv|
+!i113 0
+o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact

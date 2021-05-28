@@ -1,0 +1,87 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/SystemVerilog Hierarchy
+T_opt
+!s110 1607056063
+Vg:M<o]IRTYCP6c[GbncOY0
+04 2 4 work tb fast 0
+=1-c8f75052a24a-5fc9babf-1a6-4d0
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.4e;61
+Ymem_if
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z1 !s110 1607056055
+!i10b 1
+!s100 <=nX1<Ick>AGnc05YZzA:0
+I^^YXcTOXBS?4HSn0nF5fT3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 !s105 simple_if_sv_unit
+S1
+Z4 dC:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/SystemVerilog Interfaces
+Z5 w1607056050
+Z6 8C:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/SystemVerilog Interfaces/simple_if.sv
+Z7 FC:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/SystemVerilog Interfaces/simple_if.sv
+L0 6
+Z8 OL;L;10.4e;61
+r1
+!s85 0
+31
+Z9 !s108 1607056055.000000
+Z10 !s107 C:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/SystemVerilog Interfaces/simple_if.sv|
+Z11 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/SystemVerilog Interfaces/simple_if.sv|
+!i113 0
+Z12 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vsimple_if
+R0
+R1
+!i10b 1
+!s100 h<81A>U8775jIDb75`hSU3
+I<QUc>=HoUil_K7Mn9WEB`1
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 30
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+vtb
+R0
+R1
+!i10b 1
+!s100 S12Bcl3G;Afo4?Jb:A]B53
+IoK3cXP8dm`lB5ON`BfzaA0
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 52
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12

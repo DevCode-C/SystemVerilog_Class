@@ -1,0 +1,10 @@
+{C:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/SystemVerilog Interfaces/simple_if.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/SystemVerilog Interfaces/simple_if.sv}
+QuestaSim-64 vlog 10.4e Compiler 2016.04 Apr  9 2016
+-- Compiling interface mem_if
+-- Compiling module simple_if
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}}

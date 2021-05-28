@@ -1,0 +1,9 @@
+{C:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/Literal Values/strauct_literals.sv} {1 {vlog -work work -vopt -sv -stats=none {C:\Users\Emmanuel\Documents\Paredes Camargo Emmanuel\Literal Values\strauct_literals.sv}
+QuestaSim-64 vlog 10.4e Compiler 2016.04 Apr  9 2016
+-- Compiling package strauct_literals_sv_unit
+-- Compiling module struct_literals
+
+Top level modules:
+	struct_literals
+
+} {} {}}

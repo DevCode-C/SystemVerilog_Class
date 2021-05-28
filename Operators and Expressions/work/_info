@@ -1,0 +1,41 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/Data Types
+T_opt
+!s110 1607053343
+VnzPNkhiG7fzZC`TgKaflC2
+04 10 4 work set_member fast 0
+=1-c8f75052a24a-5fc9b01f-88-1e24
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.4e;61
+vset_member
+DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+!s110 1607053330
+!i10b 1
+!s100 @[=?SkDM3TlR5j;3R7_eB3
+ID_3K3Eej_6aL@E7VcSHl:1
+VDg1SIo80bB@j0V0VzS_@n1
+!s105 set_members_sv_unit
+S1
+dC:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/Operators and Expressions
+w1607053327
+8C:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/Operators and Expressions/set_members.sv
+FC:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/Operators and Expressions/set_members.sv
+L0 3
+OL;L;10.4e;61
+r1
+!s85 0
+31
+!s108 1607053330.000000
+!s107 C:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/Operators and Expressions/set_members.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/Operators and Expressions/set_members.sv|
+!i113 0
+o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact

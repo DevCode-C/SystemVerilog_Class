@@ -1,0 +1,64 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/Interprocess Communication
+T_opt
+!s110 1607055124
+V5[FATf@?85amAgh00PI5I1
+04 13 4 work clocking_skew fast 0
+=1-c8f75052a24a-5fc9b714-336-4aa4
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.4e;61
+vclocking_skew
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z1 !s110 1607055116
+!i10b 1
+!s100 Ceh:@4cOl1G=T`W:hMSZR1
+I529aSd4Ai]@92>CXM39WL3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 !s105 clocking_skew_sv_unit
+S1
+Z4 dC:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/SystemVerilog Clocking
+Z5 w1607055111
+Z6 8C:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/SystemVerilog Clocking/clocking_skew.sv
+Z7 FC:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/SystemVerilog Clocking/clocking_skew.sv
+L0 52
+Z8 OL;L;10.4e;61
+r1
+!s85 0
+31
+Z9 !s108 1607055116.000000
+Z10 !s107 C:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/SystemVerilog Clocking/clocking_skew.sv|
+Z11 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/SystemVerilog Clocking/clocking_skew.sv|
+!i113 0
+Z12 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+4clocking_skew_prg
+R0
+R1
+!i10b 1
+!s100 oT9T>4S3HSfQU]Al3]][P2
+IXzDbX7]ZXDJ5enJK4LC`D0
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 5
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12

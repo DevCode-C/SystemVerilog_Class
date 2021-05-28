@@ -1,0 +1,64 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/SystemVerilog Clocking
+T_opt
+!s110 1607055345
+V]j3^73>@O;`DV;;N>_PV?3
+04 14 4 work simple_program fast 0
+=1-c8f75052a24a-5fc9b7f0-398-1a8c
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.4e;61
+4simple
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z1 !s110 1607055336
+!i10b 1
+!s100 J;J?QnKVCTB^M=GT_10fK3
+IYWd?a8H=PG<TQV2<iiVbd3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 !s105 program_block_sv_unit
+S1
+Z4 dC:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/SystemVerilog Program Block
+Z5 w1607055332
+Z6 8C:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/SystemVerilog Program Block/program_block.sv
+Z7 FC:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/SystemVerilog Program Block/program_block.sv
+L0 6
+Z8 OL;L;10.4e;61
+r1
+!s85 0
+31
+Z9 !s108 1607055336.000000
+Z10 !s107 C:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/SystemVerilog Program Block/program_block.sv|
+Z11 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Emmanuel/Documents/Paredes Camargo Emmanuel/SystemVerilog Program Block/program_block.sv|
+!i113 0
+Z12 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vsimple_program
+R0
+R1
+!i10b 1
+!s100 naLMRi4c1gV`_AEDNfW;B3
+IOek[`HLdQK`[g4A5:`CkZ1
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 34
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
